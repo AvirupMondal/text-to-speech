@@ -1,0 +1,23 @@
+Hello Friends, Welcome back to our youtube channel Bimbo: Graphic Designer. So today we will see how to design a simple website. It will be responsive and good-looking attractive. We will be using Figma for website design. If you want you can also use Adobe Xd. So this is the website we are going to make it is just a demo. SO let's start today's topic. 
+In between the design, I will tell you some important tips that you have to remember while designing. From the frame option, I took the desktop artboard. And here I had already included some of the icons and text so that we can finish the design very fast. So for the icons, I have used the plugin Iconify. You will get this plugin from Figma Community.
+So now we will start with the navbar. This Navbar will have the company or website name and social media icons.
+This is the next navbar that will have a home, log in, and signup text. This navbar will have light color background compare to the first navbar.
+Now there will be a slider of a maximum of four pictures. To make the slider first you have to make a rectangle and I will duplicate it into 3 more. So I have already included 4 recent movie poster and now I will resize them and mask it with those rectangles.
+Now I will place the four pictures side by side and group them. then right-click and frame selection. This is will convert the components to a frame. Now placing the frame inside our artboard and then decreasing the size within the artboard. Now from the prototype option, we will choose scrolling to horizontal scrolling. And here is our slider. I will repeat these steps in all sliders throughout my project.
+Now I will make some sections like coming soon, premiere, events, game tournaments, and comedy. So let's do it.
+So here my sections are complete. Now I will import sample images to these boxes and for this, I will use the plugin Unsplash. You can import high-quality images from here and you can also download images externally and then place the image here. I have shown both the techniques here. So let's see.
+
+
+If you are liking our videos please do subscribe share and hit the like buttons.
+
+
+Now we will move towards the footer section that will contain one subscribe option and some important links. 
+Now it's time to make the next page of the website that will show the movie details. But one thing I will like to mention that here I am just showing you the sample so I will design only one page for movie details. When the website will be developed then the movie details will be fetched from the database dynamically but the theme format will remain the same. So my target is to show you the concept of the theme that a movie ticket booking website must-have.
+So on this page, there will be details of cast, crew, about the movie and list of similar movies.
+Now this page comes to an end.
+Next, we will design the Login and Signup Page. So, a login page contains Email and password fields and one button and forget password option. So I will design a form whose background color will be gradient so you will get to know how to apply gradient color in your design. Here I have used the shape builder tool to merge the two shapes.
+Similarly, I will duplicate the page and design the signup page that will have basic information about users. Name, Email, Password, Address, Contact. Now a Sign-up button with a drop shadow effect and a green color will make the screen more attractive. So we have already decreased the size of the website screen as we don't require to scroll down. 
+So here comes the end of today's video. Now it's time for important tips for beginners. Always remember to keep the components inside the frame layer otherwise it will create problems while resizing the screen size. 
+This was the 1st part of our series of website design of a movie booking website. The second part will be available very soon. So, we are left with a profile page, forget password page, payment page, contact and about us page.
+Thank you guys for being with us. If you liked our videos please do subscribe share and hit the like buttons.
+And If you want us to design for you then you can call us or email ur requirements. Details are given in the description box. We charge very minimally for the designs in this covid situation. Thank you guys stay at home, wear a mask, stay safe.
